@@ -1,0 +1,73 @@
+package org.meltingobsidian.janimaren.util;
+
+import java.awt.Color;
+
+public class Colors {
+    public static final Color BLUE_E = Color.decode("#1C758A");
+    public static final Color BLUE_D = Color.decode("#29ABCA");
+    public static final Color BLUE_C = Color.decode("#58C4DD");
+    public static final Color BLUE_B = Color.decode("#9CDCEB");
+    public static final Color BLUE_A = Color.decode("#C7E9F1");
+    public static final Color TEAL_E = Color.decode("#49A88F");
+    public static final Color TEAL_D = Color.decode("#55C1A7");
+    public static final Color TEAL_C = Color.decode("#5CD0B3");
+    public static final Color TEAL_B = Color.decode("#76DDC0");
+    public static final Color TEAL_A = Color.decode("#ACEAD7");
+    public static final Color GREEN_E = Color.decode("#699C52");
+    public static final Color GREEN_D = Color.decode("#77B05D");
+    public static final Color GREEN_C = Color.decode("#83C167");
+    public static final Color GREEN_B = Color.decode("#A6CF8C");
+    public static final Color GREEN_A = Color.decode("#C9E2AE");
+    public static final Color YELLOW_E = Color.decode("#E8C11C");
+    public static final Color YELLOW_D = Color.decode("#F4D345");
+    public static final Color YELLOW_C = Color.decode("#FFFF00");
+    public static final Color YELLOW_B = Color.decode("#FFEA94");
+    public static final Color YELLOW_A = Color.decode("#FFF1B6");
+    public static final Color GOLD_E = Color.decode("#C78D46");
+    public static final Color GOLD_D = Color.decode("#E1A158");
+    public static final Color GOLD_C = Color.decode("#F0AC5F");
+    public static final Color GOLD_B = Color.decode("#F9B775");
+    public static final Color GOLD_A = Color.decode("#F7C797");
+    public static final Color RED_E = Color.decode("#CF5044");
+    public static final Color RED_D = Color.decode("#E65A4C");
+    public static final Color RED_C = Color.decode("#FC6255");
+    public static final Color RED_B = Color.decode("#FF8080");
+    public static final Color RED_A = Color.decode("#F7A1A3");
+    public static final Color MAROON_E = Color.decode("#94424F");
+    public static final Color MAROON_D = Color.decode("#A24D61");
+    public static final Color MAROON_C = Color.decode("#C55F73");
+    public static final Color MAROON_B = Color.decode("#EC92AB");
+    public static final Color MAROON_A = Color.decode("#ECABC1");
+    public static final Color PURPLE_E = Color.decode("#644172");
+    public static final Color PURPLE_D = Color.decode("#715582");
+    public static final Color PURPLE_C = Color.decode("#9A72AC");
+    public static final Color PURPLE_B = Color.decode("#B189C6");
+    public static final Color PURPLE_A = Color.decode("#CAA3E8");
+    public static final Color GREY_E = Color.decode("#222222");
+    public static final Color GREY_D = Color.decode("#444444");
+    public static final Color GREY_C = Color.decode("#888888");
+    public static final Color GREY_B = Color.decode("#BBBBBB");
+    public static final Color GREY_A = Color.decode("#DDDDDD");
+    public static final Color WHITE = Color.decode("#FFFFFF");
+    public static final Color BLACK = Color.decode("#000000");
+    public static final Color GREY_BROWN = Color.decode("#736357");
+    public static final Color DARK_BROWN = Color.decode("#8B4513");
+    public static final Color LIGHT_BROWN = Color.decode("#CD853F");
+    public static final Color PINK = Color.decode("#D147BD");
+    public static final Color LIGHT_PINK = Color.decode("#DC75CD");
+    public static final Color GREEN_SCREEN = Color.decode("#00FF00");
+    public static final Color ORANGE = Color.decode("#FF862F");
+    
+    public static final Color BLUE = BLUE_C;
+    public static final Color TEAL = TEAL_C;
+    public static final Color GREEN = GREEN_C;
+    public static final Color YELLOW = YELLOW_C;
+    public static final Color GOLD = GOLD_C;
+    public static final Color RED = RED_C;
+    public static final Color MAROON = MAROON_C;
+    public static final Color PURPLE = PURPLE_C;
+    public static final Color GREY = GREY_C;
+
+    public static Color PRIMARY = WHITE;
+    public static Color SECONDARY = BLUE;
+}
